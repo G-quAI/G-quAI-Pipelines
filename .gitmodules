@@ -1,0 +1,6 @@
+[submodule "Superconducting-Neural-Network"]
+	path = Superconducting-Neural-Network
+	url = git@github.com:NunoMBatista/Superconducting-Neural-Network.git
+[submodule "Neutral-Atom-QGARS"]
+	path = Neutral-Atom-QGARS
+	url = git@github.com:NunoMBatista/Neutral-Atom-QGARS.git
